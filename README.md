@@ -1,5 +1,3 @@
-# Final Year Project Setup Team - R13
-
 ### Backend Setup
 1. Install the necessary libraries: tensorflow, matplotlib, sklean, numpy, PIL, pickle by typing in 
 pip install <library-name> in the terminal for each of the above mentioned libraries.
